@@ -1,16 +1,6 @@
-# googlecalculator
+# Flutter Calculator
 
-A new Flutter project.
+Basic math expressions, history, switch themes, 
 
-## Getting Started
+![image](https://user-images.githubusercontent.com/47219299/165107114-8c04cd93-f796-4134-a5e5-f9792cd3b079.png) ![image](https://user-images.githubusercontent.com/47219299/165107593-96b7b2ab-d111-43ac-a42c-59ab4a9fcf9e.png)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
